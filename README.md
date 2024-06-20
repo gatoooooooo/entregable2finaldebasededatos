@@ -1,4 +1,4 @@
-[# entregable2finaldebasededatos](https://gitlab.com/senati_1377718/entregable2finaldebasededatos)# ENTREGABLE 2
+# ENTREGABLE 2
 ##### **creando la base de datos DBventas**
 ```sql
 USE MASTER
